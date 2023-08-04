@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-fact-page/static/css/main.d66c2ee0.css",
+    "main.js": "/react-fact-page/static/js/main.7e4817d0.js",
+    "static/media/reactjs-icon.png": "/react-fact-page/static/media/reactjs-icon.20adfb35ae6a6e5817bf.png",
+    "static/media/reactjs-icon-back.png": "/react-fact-page/static/media/reactjs-icon-back.7d48b7ad533d496bd006.png",
+    "index.html": "/react-fact-page/index.html",
+    "main.d66c2ee0.css.map": "/react-fact-page/static/css/main.d66c2ee0.css.map",
+    "main.7e4817d0.js.map": "/react-fact-page/static/js/main.7e4817d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66c2ee0.css",
+    "static/js/main.7e4817d0.js"
+  ]
+}
