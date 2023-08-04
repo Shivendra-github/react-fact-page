@@ -1,0 +1,153 @@
+html, body{
+
+
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kablammo', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-width: 500px;
+    background-color: #282D35;
+    margin-top: 3rem;
+}
+
+*{
+
+box-sizing: border-box;
+/* border: 2px solid red; */
+
+}
+
+.react_and_img{
+
+display: flex;
+justify-content: center;
+align-items: center;
+color: #61DAFB;
+font-size: 1.3rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.113px;
+
+
+}
+
+.navbar{
+
+display: flex;
+justify-content:space-between;
+padding: 5px 20px;
+background-color: #21222A;
+top: 0;
+position: fixed;
+left: 0;
+right: 0;
+
+
+
+
+}
+
+.nav-items{
+
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-evenly;
+min-width: 300px;
+gap: 10px;
+color: white;
+background-color: #21222A;
+
+
+
+
+}
+
+.nav-items li{
+
+list-style: none;
+font-size: 1.2rem;
+
+}
+
+img{
+
+height: 60px;
+width: 60px;
+
+
+
+}
+
+.react_and_img h1{
+
+
+margin: 10px;
+
+
+}
+
+.nav-items li a{
+
+list-style: none;
+text-decoration: none;
+color: white;
+
+
+}
+
+.funfacts{
+
+    color: white;
+    font-size: 3rem;
+    line-height: 3rem;
+   
+    
+
+}
+
+.main-content{
+
+padding: 2rem;
+padding-top: 30px;
+color: white;
+line-height: 2rem;
+
+background-image: url('reactjs-icon-back.png');
+background-repeat: no-repeat;
+background-position: right;
+background-size: contain;
+/* border: 2px solid red; */
+
+
+}
+
+.main-list{
+
+
+font-weight: 500;
+letter-spacing: 2px;
+max-height: 400px;
+
+
+}
+
+.main-list li::marker{
+
+font-size: 1.4rem;
+color: #61DAFB;
+
+
+}
+
+img:hover{
+
+transition: all 5s ease;
+transform: rotate(360deg);
+
+
+}
+
